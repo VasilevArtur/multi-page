@@ -27,6 +27,18 @@ ul{
     display: flex;
     justify-content: space-between;
 }
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #4C5866;
+}
+a:active{
+    color: #4C5866;
+}
+a:visited{
+    color: #4C5866;
+}
 li{
     
     font-size: 20px;
