@@ -1,0 +1,81 @@
+.cat_email{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.email_container{
+    width: 1290px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.cat_content{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cat_h2{
+    color: #4C5866;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5px;
+    padding-left: 4px;
+    
+}
+.p_cat{
+    color: #85859B;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 35px;
+
+}
+.cat_content2{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 25px;
+
+}
+.cat_img{
+    width: 50%;
+}
+.cat_phone{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #EBEBEB;
+}
+.phone_container{
+    width: 1290px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.form_container{
+    width: 1290px;
+    margin: 0 auto;
+}
+h3{
+    color:#4C5866;
+}
+label{
+    color:#4C5866;
+}
+h4{
+    color: #4C5866;
+}
+.btn-primary{
+    background-color: #7875FE;
+}
+.btn-primary:hover{
+    background-color: #7875FE;
+}
+.btn-primary:active{
+    background-color: #7875FE;
+}
+.btn-primary:visited{
+    background-color: #7875FE;
+}
